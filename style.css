@@ -1,1 +1,12 @@
-s
+body{text-align: center;
+    background-image: url("https://deltarune.wiki/images/Castle_Town_location.png?cb=ij4yss&h=thumb.php&f=Castle_Town_location.png");
+
+    background-size: cover;
+    background-position: center;
+    height: 100vh;}
+
+button{color:gray;
+      background-color:purple;}
+h2{font-family: cursive;
+  color:whitesmoke;}
+h1{color:floralwhite;}
